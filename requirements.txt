@@ -1,4 +1,6 @@
-uvicorn==0.30.1
-bencoding==0.2.6
-fastapi==0.111.0
 pydantic==2.7.4
+niquests[socks]==3.6.6
+bencodepy==0.9.5
+python-dotenv==1.0.1
+uvicorn==0.30.1
+fastapi==0.111.0
